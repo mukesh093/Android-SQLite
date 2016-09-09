@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android-SQLite</string>
+    <string name="sqliteDemo">SQLite Demo</string>
+    <string name="sqliteSpinner">SQLite Spinner</string>
+    <string name="txt">Add New Label</string>
+    <string name="btn">Add Item</string>
+    <string name="update">Update Contact</string>
+    <string name="delete">Delete Contact</string>
+    <string name="getCount">Get Contacts Count</string>
+    <string name="getContacts">Get Contacts</string>
+</resources>
